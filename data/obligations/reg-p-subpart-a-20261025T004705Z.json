@@ -1,0 +1,371 @@
+{
+  "source": "gs://obligationbucket/regulations/reg-p-12cfr1016-subpart-a.txt",
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-25T00:47:05.387621+00:00",
+  "obligations": [
+    {
+      "obligation_id": "OBL-001",
+      "section": "1016.4(a)(1)",
+      "obligation": "The institution must provide a clear and conspicuous notice that accurately reflects its privacy policies and practices to an individual who becomes its customer, not later than when it establishes a customer relationship, except as provided in paragraph (e) of this section.",
+      "type": "must",
+      "source_quote": "You must provide a clear and conspicuous notice that accurately reflects your privacy policies and practices to: (1) Customer. An individual who becomes your customer, not later than when you establish a customer relationship, except as provided in paragraph (e) of this section;"
+    },
+    {
+      "obligation_id": "OBL-002",
+      "section": "1016.4(a)(2)",
+      "obligation": "The institution must provide a clear and conspicuous notice that accurately reflects its privacy policies and practices to a consumer before disclosing any nonpublic personal information about the consumer to any nonaffiliated third party, if it makes such disclosure other than as authorized by \u00a7\u00a7 1016.14 and 1016.15.",
+      "type": "must",
+      "source_quote": "You must provide a clear and conspicuous notice that accurately reflects your privacy policies and practices to: ... (2) Consumer. A consumer, before you disclose any nonpublic personal information about the consumer to any nonaffiliated third party, if you make such a disclosure other than as authorized by \u00a7\u00a7 1016.14 and 1016.15 of this part."
+    },
+    {
+      "obligation_id": "OBL-003",
+      "section": "1016.4(d)(1)",
+      "obligation": "The institution may provide a revised privacy notice under \u00a7 1016.8 that covers an existing customer's new financial product or service.",
+      "type": "may",
+      "source_quote": "You may provide a revised privacy notice, under \u00a7 1016.8 of this part, that covers the customer's new financial product or service"
+    },
+    {
+      "obligation_id": "OBL-004",
+      "section": "1016.4(e)(1)",
+      "obligation": "The institution may provide the initial notice within a reasonable time after establishing a customer relationship if establishing the relationship is not at the customer's election, or if providing notice not later than when establishing the relationship would substantially delay the customer's transaction and the customer agrees to receive the notice at a later time.",
+      "type": "may",
+      "source_quote": "You may provide the initial notice required by paragraph (a)(1) of this section within a reasonable time after you establish a customer relationship if: (i) Establishing the customer relationship is not at the customer's election; or (ii) Providing notice not later than when you establish a customer relationship would substantially delay the customer's transaction and the customer agrees to receive the notice at a later time."
+    },
+    {
+      "obligation_id": "OBL-005",
+      "section": "1016.4(f)",
+      "obligation": "The institution must deliver an initial privacy notice according to \u00a7 1016.9 when required to deliver it by this section.",
+      "type": "must",
+      "source_quote": "When you are required to deliver an initial privacy notice by this section, you must deliver it according to \u00a7 1016.9 of this part."
+    },
+    {
+      "obligation_id": "OBL-006",
+      "section": "1016.4(f)",
+      "obligation": "The institution may deliver its privacy notice according to \u00a7 1016.6(d)(3) if it uses a short-form initial notice for non-customers according to \u00a7 1016.6(d).",
+      "type": "may",
+      "source_quote": "If you use a short-form initial notice for non-customers according to \u00a7 1016.6(d) of this part, you may deliver your privacy notice according to \u00a7 1016.6(d)(3)."
+    },
+    {
+      "obligation_id": "OBL-007",
+      "section": "1016.5(a)(1)",
+      "obligation": "The institution must provide a clear and conspicuous notice to customers that accurately reflects its privacy policies and practices not less than annually during the continuation of the customer relationship, except as provided by paragraph (e) of this section.",
+      "type": "must",
+      "source_quote": "Except as provided by paragraph (e) of this section, you must provide a clear and conspicuous notice to customers that accurately reflects your privacy policies and practices not less than annually during the continuation of the customer relationship."
+    },
+    {
+      "obligation_id": "OBL-008",
+      "section": "1016.5(a)(1)",
+      "obligation": "The institution may define the 12-consecutive-month period for providing annual notices.",
+      "type": "may",
+      "source_quote": "You may define the 12-consecutive-month period"
+    },
+    {
+      "obligation_id": "OBL-009",
+      "section": "1016.5(a)(1)",
+      "obligation": "The institution must apply the defined 12-consecutive-month period to the customer on a consistent basis.",
+      "type": "must",
+      "source_quote": "but you must apply it to the customer on a consistent basis."
+    },
+    {
+      "obligation_id": "OBL-010",
+      "section": "1016.5(d)",
+      "obligation": "The institution must deliver an annual privacy notice according to \u00a7 1016.9 when required to deliver it by this section.",
+      "type": "must",
+      "source_quote": "When you are required to deliver an annual privacy notice by this section, you must deliver it according to \u00a7 1016.9 of this part."
+    },
+    {
+      "obligation_id": "OBL-011",
+      "section": "1016.5(e)(2)(i)",
+      "obligation": "The institution must provide an annual privacy notice in accordance with the timing requirements in paragraph (a) of this section, treating the revised privacy notice as an initial privacy notice, if it no longer meets the exception requirements because a change in policies or practices requires a revised privacy notice under \u00a7 1016.8.",
+      "type": "must",
+      "source_quote": "you must provide an annual privacy notice in accordance with the timing requirements in paragraph (a) of this section, treating the revised privacy notice as an initial privacy notice."
+    },
+    {
+      "obligation_id": "OBL-012",
+      "section": "1016.5(e)(2)(ii)",
+      "obligation": "The institution must provide an annual privacy notice within 100 days of the change in policies or practices if it no longer meets the exception requirements because of a change in policies or practices that does not require a revised privacy notice under \u00a7 1016.8.",
+      "type": "must",
+      "source_quote": "you must provide an annual privacy notice within 100 days of the change in your policies or practices that causes you to no longer meet the requirements of paragraph (e)(1) of this section."
+    },
+    {
+      "obligation_id": "OBL-013",
+      "section": "1016.6(a)(1)",
+      "obligation": "The institution must include in its initial, annual, and revised privacy notices the categories of nonpublic personal information that it collects.",
+      "type": "must",
+      "source_quote": "The categories of nonpublic personal information that you collect;"
+    },
+    {
+      "obligation_id": "OBL-014",
+      "section": "1016.6(a)(2)",
+      "obligation": "The institution must include in its initial, annual, and revised privacy notices the categories of nonpublic personal information that it discloses.",
+      "type": "must",
+      "source_quote": "The categories of nonpublic personal information that you disclose;"
+    },
+    {
+      "obligation_id": "OBL-015",
+      "section": "1016.6(a)(3)",
+      "obligation": "The institution must include in its initial, annual, and revised privacy notices the categories of affiliates and nonaffiliated third parties to whom it discloses nonpublic personal information, other than those parties to whom it discloses information under \u00a7\u00a7 1016.14 and 1016.15.",
+      "type": "must",
+      "source_quote": "The categories of affiliates and nonaffiliated third parties to whom you disclose nonpublic personal information, other than those parties to whom you disclose information under \u00a7\u00a7 1016.14 and 1016.15 of this part;"
+    },
+    {
+      "obligation_id": "OBL-016",
+      "section": "1016.6(a)(4)",
+      "obligation": "The institution must include in its initial, annual, and revised privacy notices the categories of nonpublic personal information about its former customers that it discloses and the categories of affiliates and nonaffiliated third parties to whom it discloses nonpublic personal information about former customers, other than those parties to whom it discloses information under \u00a7\u00a7 1016.14 and 1016.15.",
+      "type": "must",
+      "source_quote": "The categories of nonpublic personal information about your former customers that you disclose and the categories of affiliates and nonaffiliated third parties to whom you disclose nonpublic personal information about your former customers, other than those parties to whom you disclose information under \u00a7\u00a7 1016.14 and 1016.15;"
+    },
+    {
+      "obligation_id": "OBL-017",
+      "section": "1016.6(a)(5)",
+      "obligation": "The institution must include in its privacy notices a separate statement of the categories of information disclosed and the categories of third parties contracted with if it discloses nonpublic personal information to a nonaffiliated third party under \u00a7 1016.13 and no other exception applies.",
+      "type": "must",
+      "source_quote": "If you disclose nonpublic personal information to a nonaffiliated third party under \u00a7 1016.13 (and no other exception in \u00a7 1016.14 or \u00a7 1016.15 applies to that disclosure), a separate statement of the categories of information you disclose and the categories of third parties with whom you have contracted;"
+    },
+    {
+      "obligation_id": "OBL-018",
+      "section": "1016.6(a)(6)",
+      "obligation": "The institution must include in its privacy notices an explanation of the consumer's right under \u00a7 1016.10(a) to opt out of the disclosure of nonpublic personal information to nonaffiliated third parties, including the method or methods by which the consumer may exercise that right at that time.",
+      "type": "must",
+      "source_quote": "An explanation of the consumer's right under \u00a7 1016.10(a) of this part to opt out of the disclosure of nonpublic personal information to nonaffiliated third parties, including the method(s) by which the consumer may exercise that right at that time;"
+    },
+    {
+      "obligation_id": "OBL-019",
+      "section": "1016.6(a)(7)",
+      "obligation": "The institution must include in its privacy notices any disclosures that it makes under section 603(d)(2)(A)(iii) of the Fair Credit Reporting Act.",
+      "type": "must",
+      "source_quote": "Any disclosures that you make under section 603(d)(2)(A)(iii) of the Fair Credit Reporting Act (15 U.S.C. 1681a(d)(2)(A)(iii)) (that is, notices regarding the ability to opt out of disclosures of information among affiliates);"
+    },
+    {
+      "obligation_id": "OBL-020",
+      "section": "1016.6(a)(8)",
+      "obligation": "The institution must include in its privacy notices its policies and practices with respect to protecting the confidentiality and security of nonpublic personal information.",
+      "type": "must",
+      "source_quote": "Your policies and practices with respect to protecting the confidentiality and security of nonpublic personal information;"
+    },
+    {
+      "obligation_id": "OBL-021",
+      "section": "1016.6(a)(9)",
+      "obligation": "The institution must include in its privacy notices any disclosure that it makes under paragraph (b) of this section.",
+      "type": "must",
+      "source_quote": "Any disclosure that you make under paragraph (b) of this section."
+    },
+    {
+      "obligation_id": "OBL-022",
+      "section": "1016.6(c)(2)(ii)",
+      "obligation": "The institution may state that it reserves the right to disclose all nonpublic personal information collected about consumers without describing categories or examples if it reserves that right.",
+      "type": "may",
+      "source_quote": "If you reserve the right to disclose all of the nonpublic personal information about consumers that you collect, you may simply state that fact without describing the categories or examples of the nonpublic personal information you disclose."
+    },
+    {
+      "obligation_id": "OBL-023",
+      "section": "1016.6(c)(5)",
+      "obligation": "The institution may state that it does not disclose, and does not wish to reserve the right to disclose, nonpublic personal information about customers or former customers to affiliates or nonaffiliated third parties except as authorized under \u00a7\u00a7 1016.14 and 1016.15, in addition to required disclosures under paragraphs (a)(1), (a)(8), (a)(9), and (b) of this section.",
+      "type": "may",
+      "source_quote": "you may simply state that fact, in addition to the information you must provide under paragraphs (a)(1), (a)(8), (a)(9), and (b) of this section."
+    },
+    {
+      "obligation_id": "OBL-024",
+      "section": "1016.6(d)(1)",
+      "obligation": "The institution may satisfy initial notice requirements for a consumer who is not a customer by providing a short-form initial notice at the same time as it delivers an opt out notice under \u00a7 1016.7.",
+      "type": "may",
+      "source_quote": "You may satisfy the initial notice requirements in \u00a7\u00a7 1016.4(a)(2), 1016.7(b), and 1016.7(c) of this part for a consumer who is not a customer by providing a short-form initial notice at the same time as you deliver an opt out notice as required in \u00a7 1016.7."
+    },
+    {
+      "obligation_id": "OBL-025",
+      "section": "1016.6(d)(2)(i)",
+      "obligation": "The institution must ensure that a short-form initial notice is clear and conspicuous.",
+      "type": "must",
+      "source_quote": "A short-form initial notice must: (i) Be clear and conspicuous;"
+    },
+    {
+      "obligation_id": "OBL-026",
+      "section": "1016.6(d)(2)(ii)",
+      "obligation": "The institution must state in a short-form initial notice that its privacy notice is available upon request.",
+      "type": "must",
+      "source_quote": "A short-form initial notice must: ... (ii) State that your privacy notice is available upon request;"
+    },
+    {
+      "obligation_id": "OBL-027",
+      "section": "1016.6(d)(2)(iii)",
+      "obligation": "The institution must explain in a short-form initial notice a reasonable means by which the consumer may obtain that notice.",
+      "type": "must",
+      "source_quote": "A short-form initial notice must: ... (iii) Explain a reasonable means by which the consumer may obtain that notice."
+    },
+    {
+      "obligation_id": "OBL-028",
+      "section": "1016.6(d)(3)",
+      "obligation": "The institution must deliver its short-form initial notice according to \u00a7 1016.9.",
+      "type": "must",
+      "source_quote": "You must deliver your short-form initial notice according to \u00a7 1016.9."
+    },
+    {
+      "obligation_id": "OBL-029",
+      "section": "1016.6(d)(3)",
+      "obligation": "The institution may provide the consumer a reasonable means to obtain its privacy notice instead of delivering the privacy notice with its short-form initial notice.",
+      "type": "may",
+      "source_quote": "You instead may simply provide the consumer a reasonable means to obtain your privacy notice."
+    },
+    {
+      "obligation_id": "OBL-030",
+      "section": "1016.6(d)(3)",
+      "obligation": "The institution must deliver its privacy notice according to \u00a7 1016.9 if a consumer who receives its short-form notice requests the privacy notice.",
+      "type": "must",
+      "source_quote": "If a consumer who receives your short-form notice requests your privacy notice, you must deliver your privacy notice according to \u00a7 1016.9."
+    },
+    {
+      "obligation_id": "OBL-031",
+      "section": "1016.6(e)",
+      "obligation": "The institution may include in its notice categories of nonpublic personal information or categories of affiliates or nonaffiliated third parties to whom it reserves the right in the future to disclose, but does not currently disclose.",
+      "type": "may",
+      "source_quote": "Your notice may include: (1) Categories of nonpublic personal information that you reserve the right to disclose in the future, but do not currently disclose; and (2) Categories of affiliates or nonaffiliated third parties to whom you reserve the right in the future to disclose, but to whom you do not currently disclose, nonpublic personal information."
+    },
+    {
+      "obligation_id": "OBL-032",
+      "section": "1016.7(a)(1)",
+      "obligation": "The institution must provide a clear and conspicuous notice to each of its consumers that accurately explains the right to opt out if required to provide an opt out notice under \u00a7 1016.10(a).",
+      "type": "must",
+      "source_quote": "If you are required to provide an opt out notice under \u00a7 1016.10(a), you must provide a clear and conspicuous notice to each of your consumers that accurately explains the right to opt out under that section."
+    },
+    {
+      "obligation_id": "OBL-033",
+      "section": "1016.7(a)(1)(i)",
+      "obligation": "The institution must state in the opt out notice that it discloses or reserves the right to disclose nonpublic personal information about its consumer to a nonaffiliated third party.",
+      "type": "must",
+      "source_quote": "The notice must state: (i) That you disclose or reserve the right to disclose nonpublic personal information about your consumer to a nonaffiliated third party;"
+    },
+    {
+      "obligation_id": "OBL-034",
+      "section": "1016.7(a)(1)(ii)",
+      "obligation": "The institution must state in the opt out notice that the consumer has the right to opt out of that disclosure.",
+      "type": "must",
+      "source_quote": "The notice must state: ... (ii) That the consumer has the right to opt out of that disclosure;"
+    },
+    {
+      "obligation_id": "OBL-035",
+      "section": "1016.7(a)(1)(iii)",
+      "obligation": "The institution must state in the opt out notice a reasonable means by which the consumer may exercise the opt out right.",
+      "type": "must",
+      "source_quote": "The notice must state: ... (iii) A reasonable means by which the consumer may exercise the opt out right."
+    },
+    {
+      "obligation_id": "OBL-036",
+      "section": "1016.7(a)(2)(iv)",
+      "obligation": "The institution may require each consumer to opt out through a specific means, as long as that means is reasonable for that consumer.",
+      "type": "may",
+      "source_quote": "You may require each consumer to opt out through a specific means, as long as that means is reasonable for that consumer."
+    },
+    {
+      "obligation_id": "OBL-037",
+      "section": "1016.7(b)",
+      "obligation": "The institution may provide the opt out notice together with or on the same written or electronic form as the initial notice provided in accordance with \u00a7 1016.4.",
+      "type": "may",
+      "source_quote": "You may provide the opt out notice together with or on the same written or electronic form as the initial notice you provide in accordance with \u00a7 1016.4."
+    },
+    {
+      "obligation_id": "OBL-038",
+      "section": "1016.7(c)",
+      "obligation": "The institution must include a copy of the initial notice with the opt out notice in writing or, if the consumer agrees, electronically, if it provides the opt out notice later than required for the initial notice.",
+      "type": "must",
+      "source_quote": "If you provide the opt out notice later than required for the initial notice in accordance with \u00a7 1016.4 of this part, you must also include a copy of the initial notice with the opt out notice in writing or, if the consumer agrees, electronically."
+    },
+    {
+      "obligation_id": "OBL-039",
+      "section": "1016.7(d)(1)",
+      "obligation": "The institution may provide a single opt out notice if two or more consumers jointly obtain a financial product or service.",
+      "type": "may",
+      "source_quote": "If two or more consumers jointly obtain a financial product or service from you, you may provide a single opt out notice."
+    },
+    {
+      "obligation_id": "OBL-040",
+      "section": "1016.7(d)(1)",
+      "obligation": "The institution must explain in its opt out notice how it will treat an opt out direction by a joint consumer.",
+      "type": "must",
+      "source_quote": "Your opt out notice must explain how you will treat an opt out direction by a joint consumer"
+    },
+    {
+      "obligation_id": "OBL-041",
+      "section": "1016.7(d)(2)",
+      "obligation": "The institution may either treat an opt out direction by a joint consumer as applying to all of the associated joint consumers or permit each joint consumer to opt out separately.",
+      "type": "may",
+      "source_quote": "You may either: (i) Treat an opt out direction by a joint consumer as applying to all of the associated joint consumers; or (ii) Permit each joint consumer to opt out separately."
+    },
+    {
+      "obligation_id": "OBL-042",
+      "section": "1016.7(d)(3)",
+      "obligation": "The institution must permit one of the joint consumers to opt out on behalf of all of the joint consumers if it permits each joint consumer to opt out separately.",
+      "type": "must",
+      "source_quote": "If you permit each joint consumer to opt out separately, you must permit one of the joint consumers to opt out on behalf of all of the joint consumers."
+    },
+    {
+      "obligation_id": "OBL-043",
+      "section": "1016.7(d)(4)",
+      "obligation": "The institution must not require all joint consumers to opt out before it implements any opt out direction.",
+      "type": "must_not",
+      "source_quote": "You may not require all joint consumers to opt out before you implement any opt out direction."
+    },
+    {
+      "obligation_id": "OBL-044",
+      "section": "1016.7(g)",
+      "obligation": "The institution must comply with a consumer's opt out direction as soon as reasonably practicable after receiving it.",
+      "type": "must",
+      "source_quote": "You must comply with a consumer's opt out direction as soon as reasonably practicable after you receive it."
+    },
+    {
+      "obligation_id": "OBL-045",
+      "section": "1016.7(j)",
+      "obligation": "The institution must deliver an opt out notice according to \u00a7 1016.9 when required to deliver it by this section.",
+      "type": "must",
+      "source_quote": "When you are required to deliver an opt out notice by this section, you must deliver it according to \u00a7 1016.9 of this part."
+    },
+    {
+      "obligation_id": "OBL-046",
+      "section": "1016.8(a)",
+      "obligation": "The institution must not, directly or through any affiliate, disclose any nonpublic personal information about a consumer to a nonaffiliated third party other than as described in the initial notice provided to that consumer, unless it provides a revised notice, provides a new opt out notice, gives a reasonable opportunity to opt out, and the consumer does not opt out.",
+      "type": "must_not",
+      "source_quote": "Except as otherwise authorized in this part, you must not, directly or through any affiliate, disclose any nonpublic personal information about a consumer to a nonaffiliated third party other than as described in the initial notice that you provided to that consumer under \u00a7 1016.4 of this part, unless: (1) You have provided to the consumer a clear and conspicuous revised notice that accurately describes your policies and practices; (2) You have provided to the consumer a new opt out notice; (3) You have given the consumer a reasonable opportunity, before you disclose the information to the nonaffiliated third party, to opt out of the disclosure; and (4) The consumer does not opt out."
+    },
+    {
+      "obligation_id": "OBL-047",
+      "section": "1016.8(c)",
+      "obligation": "The institution must deliver a revised privacy notice according to \u00a7 1016.9 when required to deliver it by this section.",
+      "type": "must",
+      "source_quote": "When you are required to deliver a revised privacy notice by this section, you must deliver it according to \u00a7 1016.9 of this part."
+    },
+    {
+      "obligation_id": "OBL-048",
+      "section": "1016.9(a)",
+      "obligation": "The institution must provide any privacy notices and opt out notices that this part requires so that each consumer can reasonably be expected to receive actual notice in writing or, if the consumer agrees, electronically.",
+      "type": "must",
+      "source_quote": "You must provide any privacy notices and opt out notices, including short-form initial notices, that this part requires so that each consumer can reasonably be expected to receive actual notice in writing or, if the consumer agrees, electronically."
+    },
+    {
+      "obligation_id": "OBL-049",
+      "section": "1016.9(d)",
+      "obligation": "The institution must not provide any notice required by this part solely by orally explaining the notice, either in person or over the telephone.",
+      "type": "must_not",
+      "source_quote": "You may not provide any notice required by this part solely by orally explaining the notice, either in person or over the telephone."
+    },
+    {
+      "obligation_id": "OBL-050",
+      "section": "1016.9(e)(1)",
+      "obligation": "The institution must provide the initial notice, annual notice, and revised notice for customers so that the customer can retain them or obtain them later in writing or, if the customer agrees, electronically.",
+      "type": "must",
+      "source_quote": "For customers only, you must provide the initial notice required by \u00a7 1016.4(a)(1), the annual notice required by \u00a7 1016.5(a), and the revised notice required by \u00a7 1016.8 so that the customer can retain them or obtain them later in writing or, if the customer agrees, electronically."
+    },
+    {
+      "obligation_id": "OBL-051",
+      "section": "1016.9(f)",
+      "obligation": "The institution may provide a joint notice from the institution and one or more of its affiliates or other financial institutions, as identified in the notice, as long as the notice is accurate with respect to all institutions.",
+      "type": "may",
+      "source_quote": "You may provide a joint notice from you and one or more of your affiliates or other financial institutions, as identified in the notice, as long as the notice is accurate with respect to you and the other institutions."
+    },
+    {
+      "obligation_id": "OBL-052",
+      "section": "1016.9(g)",
+      "obligation": "The institution may satisfy the initial, annual, and revised notice requirements by providing one notice jointly to two or more consumers who jointly obtain a financial product or service.",
+      "type": "may",
+      "source_quote": "If two or more consumers jointly obtain a financial product or service from you, you may satisfy the initial, annual, and revised notice requirements of \u00a7\u00a7 1016.4(a), 1016.5(a), and 1016.8(a), respectively, by providing one notice to those consumers jointly."
+    }
+  ]
+}

@@ -16,7 +16,7 @@ As a business systems analyst in banking, I've seen this work up close.
 
 ## Current status
 - [x] **Module 1 – Foundation:** project setup, regulation intake, least-privilege service account
-- [ ] Module 2 – Decompose obligations with Gemini
+- - [x] **Module 2 – Decompose:** Gemini 3.8 Flash extracts individual obligations from Regulation P (52 from Subpart A), running on a private VM with no public IP, reaching Google services through Private Google Access
 - [ ] Module 3 – Human-in-the-loop review app
 - [ ] Module 4 – Accuracy measurement in BigQuery
 - [ ] Module 5 – Security hardening
