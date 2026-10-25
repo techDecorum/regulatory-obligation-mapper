@@ -9,7 +9,7 @@ from google.cloud import storage
 
 PROJECT = "obligation-mapper"
 LOCATION = os.environ.get("GEMINI_LOCATION", "global")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 BUCKET = "obligationbucket"
 SOURCE = "regulations/reg-p-12cfr1016-subpart-a.txt"
 
@@ -44,7 +44,6 @@ def main():
         model=MODEL,
         contents=PROMPT + regulation_text,
         config=types.GenerateContentConfig(
-            temperature=0,
             response_mime_type="application/json",
             max_output_tokens=32768,
         ),
